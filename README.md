@@ -11,4 +11,4 @@ This projected is hosted by github pages https://oszi123.github.io/Museum-Of-Can
 * HTML5
 * CSS3
 * Bootstrap
-*Javascript
+* Javascript
